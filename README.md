@@ -1,3 +1,1 @@
-Foo bar
-
-Foo bar 2
+Testing
